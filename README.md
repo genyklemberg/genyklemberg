@@ -184,3 +184,5 @@ Here are Kanban-style cards summarizing my roles:
 📧 **Email**: yp@ngmates.com  
 🌐 **Website**: [ngmates.com](https://ngmates.com)  
 💼 **LinkedIn**: [linkedin.com/in/ypotupa](https://linkedin.com/in/ypotupa)
+
+## P.S. Hey, full disclosure — I’m more of a GitLab fan. So if you find my repos here a bit sparse or my commits a tad rare, don’t be too hard on me! 🤓🚀
