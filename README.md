@@ -185,7 +185,7 @@ Here are Kanban-style cards summarizing my roles:
 🌐 **Website**: [ngmates.com](https://ngmates.com)  
 💼 **LinkedIn**: [linkedin.com/in/ypotupa](https://linkedin.com/in/ypotupa)
 
-## P.S. Hey, full disclosure — I’m more of a GitLab fan. Here’s one of my recent activity! I just moved in July after Parental Leave, so my commits have been a bit sparse at some periods. 🤓🚀
+## P.S. Hey, full disclosure — I’m more of a GitLab fan. Here’s one of my recent activity for 2024! I just moved in July after Parental Leave, so my commits have been a bit sparse at some periods. 🤓🚀
 ![image](https://github.com/user-attachments/assets/98ff9a4e-6755-4721-a11d-7a95ef80b95d)
 ![image](https://github.com/user-attachments/assets/921827b6-a820-42c7-8c9a-5503544af0e1)
 
